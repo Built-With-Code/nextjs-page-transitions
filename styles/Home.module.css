@@ -1,0 +1,43 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main {
+  padding: 5rem 2rem;
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1em;
+  grid-auto-flow: dense;
+}
+
+.img {
+  width: 100%;
+}
+
+.img img {
+  width: 100%;
+}
+
+.imgTall {
+  width: 100%;
+  grid-row: span 2;
+}
+
+.imgTall img {
+  width: 100%;
+}
+
+.imgLarge {
+  width: 100%;
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.imgLarge img {
+  width: 100%;
+}

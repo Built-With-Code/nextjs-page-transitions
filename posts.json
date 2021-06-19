@@ -1,0 +1,44 @@
+[
+  {
+    "id": "google-home-mini",
+    "title": "Google Home Mini",
+    "image_url": "/img/google-home-mini.jpg",
+    "image_style": "large"
+  },
+  {
+    "id": "iphone-12",
+    "title": "iPhone 12",
+    "image_url": "/img/iphone-12.jpg",
+    "image_style": "standard"
+  },
+  {
+    "id": "keychron",
+    "title": "Keychron",
+    "image_url": "/img/keychron.jpg",
+    "image_style": "standard"
+  },
+  {
+    "id": "macbook-air",
+    "title": "M1 MacBook Air",
+    "image_url": "/img/macbook-air.jpg",
+    "image_style": "tall"
+  },
+  {
+    "id": "playstation-5",
+    "title": "PlayStation 5",
+    "image_url": "/img/ps5.jpg",
+    "image_style": "standard"
+  },
+  {
+    "id": "shoe",
+    "title": "Shoe",
+    "image_url": "/img/shoe.jpg",
+    "image_style": "tall"
+  },
+  {
+    "id": "ugmonk-gather",
+    "title": "Ugmonk Gather",
+    "image_url": "/img/ugmonk-gather.jpg",
+    "image_style": "standard"
+  }
+]
